@@ -1,6 +1,6 @@
 # Wiz Privileged Gate Node
 
-A custom authentication node for PingAM and PingOne Advanced Identity Cloud (PingAIC) that gates authentication on the user's Wiz risk posture — blocking access for users with open critical issues and forcing step-up authentication for users with open high-severity issues.
+A custom authentication node for PingAM that gates authentication on the user's Wiz risk posture — blocking access for users with open critical issues and forcing step-up authentication for users with open high-severity issues.
 
 ## Overview
 
